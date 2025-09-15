@@ -6,6 +6,9 @@ Prompty
   <br/>
   Connect to multiple AI models, test, compare, and optimize prompts in one clean, collaborative workspace.
   <br/>
+   <br/>
+  <img width="4132" height="2722" alt="prompt-dashboard" src="https://github.com/user-attachments/assets/ad332555-369c-4f4c-91f2-d60559292a01" />
+
 </div>
 
 ## 📜 Features
@@ -26,11 +29,7 @@ Prompty
   - Your API keys stay on your device
   - Encrypted local storage
 
-## 👋 Overview
-
-Prompty is a developer-friendly playground that lets you connect to multiple AI models, debug and optimize prompts — all in one interface.
-
-By using your own API keys with Prompty, you get:
+## 🔑 Why Use Prompty
 - Pay only for what you use (no locked-in monthly model fees)
 - Keep your prompts and outputs private
 - Switch between multiple AI models without leaving the app
