@@ -6,8 +6,9 @@ Prompty
   <br/>
   Connect to multiple AI models, test, compare, and optimize prompts in one clean, collaborative workspace.
   <br/>
-   <br/>
-  <img width="4132" height="2722" alt="prompt-dashboard" src="https://github.com/user-attachments/assets/ad332555-369c-4f4c-91f2-d60559292a01" />
+  <br/>
+  <img width="3196" height="2060" alt="text-generation-1" src="https://github.com/user-attachments/assets/6e48600f-2885-47c9-ae8d-a235bf55b3ba" />
+
 
 </div>
 
